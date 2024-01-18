@@ -7,4 +7,9 @@
 .container{
     display: flex;
     padding: 22px;
+    position: relative;
+}
+
+.navbar{
+    position: relative;
 }
