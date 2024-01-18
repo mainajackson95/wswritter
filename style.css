@@ -43,10 +43,10 @@
     background: transparent;
 }
 .navbar a {
-	font-size: 1.7rem;
+	font-size: 1.2rem;
 	color: #ededed;
 	font-weight: 500;
-	margin-left: 3.5rem;
+	margin-left: 1.5rem;
 	transition: 3s;
 }
 
